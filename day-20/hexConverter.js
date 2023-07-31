@@ -1,0 +1,1 @@
+//Create a function that can take a string as a parameter and return its  Hexadecimal equivalent
